@@ -1,8 +1,8 @@
 # Dev Works
 
-🚀 **Transformando Ideias em Realidade.** 🚀
+🚀 **Transformando Ideias em Realidade.** 
 
-Bem-vindo ao repositório oficial da **devWorks**, uma empresa de desenvolvimento de software que acredita no poder da colaboração, inovação e mudança. Somos uma equipe pequena, mas apaixonada, dedicada a criar **projetos incríveis** que não apenas resolvem problemas, mas também **transformam a maneira como vemos o desenvolvimento** e impactam a vida das pessoas.
+Bem-vindo ao repositório oficial da **devWorks**, uma empresa de desenvolvimento de software que acredita no poder da colaboração, inovação e mudança. Somos uma equipe pequena, mas apaixonada, dedicada a criar **projetos incríveis** que resolvem problemas, mas também **transformam a maneira como vemos o desenvolvimento** e impactam a vida das pessoas.
 
 ### O que fazemos?
 
@@ -20,8 +20,6 @@ Trabalhamos com **tecnologias de ponta**, sempre em busca de como elas podem ser
 ### Por que devWorks?
 
 A devWorks não é apenas uma empresa de desenvolvimento. Somos uma **comunidade**. Um grupo de **pensadores criativos** e **fazedores** que acreditam no impacto transformador da tecnologia. Trabalhamos com projetos que vão desde soluções simples até **ideias complexas e inovadoras** que têm o poder de moldar o futuro.
-
-Nosso time é pequeno, mas nossa visão é gigante. Estamos **comprometidos em construir com qualidade**, desde o início de cada projeto até a entrega final. E o melhor: nós acreditamos que a **próxima grande ideia pode vir de qualquer um**. Colabore conosco e descubra onde sua criatividade pode nos levar!
 
 ### Como você pode se envolver?
 
